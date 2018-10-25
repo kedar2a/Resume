@@ -8,7 +8,7 @@ Positive, optimistic, passionate open source developer with 5+ years of experien
 ---
 
 ### Projects
-- **Tata Institute of Fundamental Research** | JAN 2013 - OCT 2018
+- **Tata Institute of Fundamental Research** | [Experience](https://github.com/kedar2a/Resume/tree/master/gstudio) | JAN 2013 - OCT 2018
     + [CLIx](https://clix.tiss.edu/), Connected Learning Initiative, *TISS*
     + [NROER](http://nroer.gov.in/), National Repository of Open Education Resources, *CIET-NCERT*
     + NUSSD, National University Students' Skill Development, *TISS*
@@ -26,7 +26,7 @@ Positive, optimistic, passionate open source developer with 5+ years of experien
 - [Bug resolution in Django-Online-Status​ and Primodium](https://bitbucket.org/zalew/django-online-status/pull-requests/2/edited-urlspy-file-to-work-django-online/diff)
 - Pointing a bug in ​mongoDB​ Python driver, [​Pymongo](https://jira.mongodb.org/browse/PYTHON-712)
 - [MongoDB white paper](https://github.com/kedar2a/Abstracts)
-- Miscellanious:
+- Miscellaneous:
     - https://github.com/videojs/video.js/pull/1840
     - https://jira.mongodb.org/browse/SERVER-22678
     - https://github.com/issues?q=is%3Aissue+author%3Akedar2a+archived%3Afalse+is%3Aclosed
